@@ -1,8 +1,5 @@
 package com.ironlz.cmd.exector;
 
-
-
-
 import java.io.IOException;
 import java.util.Scanner;
 
